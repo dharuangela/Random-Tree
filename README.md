@@ -1,2 +1,2 @@
-# Random-Tree
+# Random-Forest
 Credit Risk Classification Dataset
